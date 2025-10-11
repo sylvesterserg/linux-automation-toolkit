@@ -22,5 +22,8 @@ Automates compliance scanning for Red Hat-based systems using OpenSCAP and Ansib
 - `/tmp/openscap-report.html` (HTML Report)
 - `/tmp/openscap-results.xml` (Raw Scan Results)
 
+## Additional Playbooks
+- [Proxmox automation playbook](docs/proxmox-automation.md) – Guidance for migrating Azure Packer workflows to Proxmox with Azure DevOps and Key Vault integration.
+
 ## License
 MIT License
