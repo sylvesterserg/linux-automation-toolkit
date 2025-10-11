@@ -1,0 +1,41 @@
+http:
+  middlewares:
+    n8n-basicauth:
+      basicAuth:
+        users:
+          - "n8n-admin:$2y$12$REPLACE_WITH_N8N_HASH"
+        headerField: Authorization
+    secure-headers:
+      headers:
+        browserXssFilter: true
+        contentTypeNosniff: true
+        frameDeny: true
+        referrerPolicy: no-referrer-when-downgrade
+        stsIncludeSubdomains: true
+        stsPreload: true
+        stsSeconds: 63072000
+        customRequestHeaders:
+          X-Forwarded-Proto: https
+    traefik-auth:
+      basicAuth:
+        users:
+          - "traefik-admin:$2y$12$REPLACE_WITH_TRAEFIK_HASH"
+  routers:
+    traefik-dashboard:
+      rule: Host(`traefik.automations.example.com`)
+      service: api@internal
+      entryPoints:
+        - websecure
+      middlewares:
+        - traefik-auth
+      tls:
+        certResolver: cloudflare
+    traefik-metrics:
+      rule: Host(`metrics.automations.example.com`)
+      service: prometheus@internal
+      entryPoints:
+        - websecure
+      middlewares:
+        - secure-headers
+      tls:
+        certResolver: cloudflare
