@@ -1,0 +1,15 @@
+# Python/Ansible artifacts
+__pycache__/
+*.retry
+
+# macOS/Linux desktop cruft
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*.tmp
