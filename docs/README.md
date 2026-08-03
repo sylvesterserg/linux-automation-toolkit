@@ -7,6 +7,7 @@
 ## Guides
 - [Automation Hub SOP](automation-hub-sop.md) – How to publish and manage automation content.
 - [Proxmox automation reference](proxmox-automation.md) – Migrating Azure Packer workflows to Proxmox with Azure DevOps and Key Vault integration.
+- [Sylvect inbound campaign kit](marketing/README.md) – Editable flyer and social assets, a four week content campaign, and permission based outreach copy for the App Readiness Review.
 
 ## Repository layout notes
 - Playbooks live in `ansible/`. Keep future playbooks, inventories, and group vars under this directory so the root stays tidy.

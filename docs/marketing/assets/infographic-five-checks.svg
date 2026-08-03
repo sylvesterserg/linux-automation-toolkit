@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" role="img" aria-labelledby="title desc">
+  <title id="title">Five checks before real customers use your AI built app</title>
+  <desc id="desc">Checklist covering secrets, bot protection, error alerts, backups, and ownership.</desc>
+  <rect width="1080" height="1350" fill="#F5F8F7"/>
+  <rect width="1080" height="280" fill="#08111F"/>
+  <text x="70" y="72" fill="#73F2A7" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="4">SYLVECT • APP READINESS</text>
+  <text x="70" y="145" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700"><tspan x="70">5 checks before real customers</tspan><tspan x="70" dy="65">use your AI built app</tspan></text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g transform="translate(70 340)"><circle cx="42" cy="42" r="42" fill="#73F2A7"/><text x="42" y="56" text-anchor="middle" fill="#08111F" font-size="38" font-weight="700">1</text><text x="115" y="30" fill="#08111F" font-size="34" font-weight="700">Protect private secrets</text><text x="115" y="72" fill="#425466" font-size="27">Keys and admin credentials do not belong in the browser.</text></g>
+    <g transform="translate(70 520)"><circle cx="42" cy="42" r="42" fill="#73F2A7"/><text x="42" y="56" text-anchor="middle" fill="#08111F" font-size="38" font-weight="700">2</text><text x="115" y="30" fill="#08111F" font-size="34" font-weight="700">Control bots and abuse</text><text x="115" y="72" fill="#425466" font-size="27">Protect forms and logins with rate limits and bot checks.</text></g>
+    <g transform="translate(70 700)"><circle cx="42" cy="42" r="42" fill="#73F2A7"/><text x="42" y="56" text-anchor="middle" fill="#08111F" font-size="38" font-weight="700">3</text><text x="115" y="30" fill="#08111F" font-size="34" font-weight="700">See failures quickly</text><text x="115" y="72" fill="#425466" font-size="27">Log important errors and alert a real person.</text></g>
+    <g transform="translate(70 880)"><circle cx="42" cy="42" r="42" fill="#73F2A7"/><text x="42" y="56" text-anchor="middle" fill="#08111F" font-size="38" font-weight="700">4</text><text x="115" y="30" fill="#08111F" font-size="34" font-weight="700">Test recovery</text><text x="115" y="72" fill="#425466" font-size="27">A backup only helps when you can restore it.</text></g>
+    <g transform="translate(70 1060)"><circle cx="42" cy="42" r="42" fill="#73F2A7"/><text x="42" y="56" text-anchor="middle" fill="#08111F" font-size="38" font-weight="700">5</text><text x="115" y="30" fill="#08111F" font-size="34" font-weight="700">Know what you own</text><text x="115" y="72" fill="#425466" font-size="27">Confirm you can export your code and customer data.</text></g>
+  </g>
+  <rect x="0" y="1240" width="1080" height="110" fill="#08111F"/>
+  <text x="70" y="1308" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="29">Get a clear plan at <tspan fill="#73F2A7" font-weight="700">sylvect.biz/app-review</tspan></text>
+</svg>
