@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="816" height="1056" viewBox="0 0 816 1056" role="img" aria-labelledby="title desc">
+  <title id="title">Sylvect App Readiness Review flyer</title>
+  <desc id="desc">A flyer for small businesses that need an AI built app reviewed for security, reliability, ownership, and automation.</desc>
+  <rect width="816" height="1056" fill="#F5F8F7"/>
+  <rect width="816" height="410" fill="#08111F"/>
+  <path d="M56 55h704" stroke="#73F2A7" stroke-width="6"/>
+  <text x="56" y="105" fill="#73F2A7" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="4">SYLVECT</text>
+  <text x="56" y="210" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700"><tspan x="56">Built it fast.</tspan><tspan x="56" dy="76">Now make it <tspan fill="#73F2A7">solid.</tspan></tspan></text>
+  <text x="58" y="370" fill="#DDFBE9" font-family="Arial, Helvetica, sans-serif" font-size="24">A practical readiness review for your AI built app.</text>
+  <text x="56" y="478" fill="#08111F" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">Turn uncertainty into a prioritized plan.</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g transform="translate(56 535)"><rect width="330" height="128" rx="16" fill="#FFFFFF"/><circle cx="38" cy="38" r="21" fill="#73F2A7"/><path d="m28 38 7 7 14-17" fill="none" stroke="#08111F" stroke-width="5"/><text x="72" y="36" fill="#08111F" font-size="24" font-weight="700">Security basics</text><text x="24" y="84" fill="#425466" font-size="18"><tspan x="24">Secrets, access controls,</tspan><tspan x="24" dy="25">bots, and rate limits</tspan></text></g>
+    <g transform="translate(430 535)"><rect width="330" height="128" rx="16" fill="#FFFFFF"/><circle cx="38" cy="38" r="21" fill="#73F2A7"/><path d="m28 38 7 7 14-17" fill="none" stroke="#08111F" stroke-width="5"/><text x="72" y="36" fill="#08111F" font-size="24" font-weight="700">Reliability</text><text x="24" y="84" fill="#425466" font-size="18"><tspan x="24">Errors, alerts, backups,</tspan><tspan x="24" dy="25">and production risks</tspan></text></g>
+    <g transform="translate(56 687)"><rect width="330" height="128" rx="16" fill="#FFFFFF"/><circle cx="38" cy="38" r="21" fill="#73F2A7"/><path d="m28 38 7 7 14-17" fill="none" stroke="#08111F" stroke-width="5"/><text x="72" y="36" fill="#08111F" font-size="24" font-weight="700">Ownership</text><text x="24" y="84" fill="#425466" font-size="18"><tspan x="24">Code, data, domains,</tspan><tspan x="24" dy="25">hosting, and exit options</tspan></text></g>
+    <g transform="translate(430 687)"><rect width="330" height="128" rx="16" fill="#FFFFFF"/><circle cx="38" cy="38" r="21" fill="#73F2A7"/><path d="m28 38 7 7 14-17" fill="none" stroke="#08111F" stroke-width="5"/><text x="72" y="36" fill="#08111F" font-size="24" font-weight="700">Automation</text><text x="24" y="84" fill="#425466" font-size="18"><tspan x="24">Email, CRM, calendars,</tspan><tspan x="24" dy="25">and reliable handoffs</tspan></text></g>
+  </g>
+  <rect x="56" y="858" width="704" height="126" rx="22" fill="#08111F"/>
+  <text x="408" y="905" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="21">Receive clear <tspan fill="#73F2A7" font-weight="700">fix now • fix next • watch</tspan> priorities.</text>
+  <text x="408" y="953" text-anchor="middle" fill="#73F2A7" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">sylvect.biz/app-review</text>
+  <text x="408" y="1023" text-anchor="middle" fill="#425466" font-family="Arial, Helvetica, sans-serif" font-size="16">Security review and production readiness support. Results vary by scope.</text>
+</svg>
