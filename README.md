@@ -37,3 +37,12 @@ Automates compliance scanning for Red Hat-based systems using OpenSCAP and Ansib
 
 ## License
 MIT License
+
+---
+
+## Follow the builds — or work with me
+
+- **Free guide:** [Build Your First Production-Style Homelab](https://sylvesterserg.github.io/sly-command-center/guide/)
+- **Build logs:** [SlyBuilds on Substack](https://slybuilds.substack.com/subscribe) — one build, one test, what broke
+- **For your business:** Sylvect IT Services brings this same infrastructure work to small businesses in NJ / NYC metro — [book a call](https://sylvect.biz/book/)
+- **More projects:** [github.com/sylvesterserg](https://github.com/sylvesterserg)
